@@ -1,3 +1,15 @@
+/*
+ * This program is part of my learning Java series
+ * This one looks at getting a returned data type 
+ * from a method
+ * 
+ * Find the blog here,
+ * http://testsheepnz.blogspot.co.nz/2016/08/java-6-avoiding-tangled-code-with.html
+ * 
+ * For more information - please reread.
+ * 
+ * Mike Talks, Aug 2016
+ */
 
 public class returnData {
 
