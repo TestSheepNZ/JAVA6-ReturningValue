@@ -11,8 +11,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class returnData {
-
+public class ReturnData {
 	
 	private static int incrementNumber(int num)
 	{
